@@ -1,0 +1,5 @@
+button = document.querySelector('please list button attribute here')
+
+alert("process complete!");
+
+button.click()
